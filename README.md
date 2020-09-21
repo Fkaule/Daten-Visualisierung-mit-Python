@@ -1,2 +1,2 @@
-# DataVisualisation-Kurs
-HTWK Studium Generale Kurs für "Data Visualisation" in Python
+# DatenVisualisierung-Kurs
+HTWK Studium Generale Kurs für Daten Visualisierung in Python
