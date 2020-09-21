@@ -1,13 +1,5 @@
-name: example-environment
-channels:
-  - conda-forge
+name: basics
 dependencies:
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
-  - dask
