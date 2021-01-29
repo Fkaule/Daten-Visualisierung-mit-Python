@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 2ec364821a4bbf9add8ed0ea1b16248b7c0955d5
 # HTWK Studium Generale Kurs für Daten Visualisierung in Python
 
-# KURSINHALT
+# Kursinhalt
 
 - [01 - Einleitung](01-Einleitung/Einleitung.md)
 - [01 - Einführung Jupter Notebooks](01-Einleitung/Einfuehrung-Jupyter-Noteboks) 
@@ -15,9 +11,15 @@
 - [06 - Beispiel D: Wetterdaten Leipzig - Temperaturen](06-Beispiel_D-Wetterdaten-Leipzig/Temperaturen.ipynb)
 - [06 - Beispiel D: Wetterdaten Leipzig - Niederschlag](06-Beispiel_D-Wetterdaten-Leipzig/Niederschlag.ipynb)
 
+# Extras
+
+- [Seaborn / Pandas - Anzahl der "numerischen" Kategorien einstellen mit pd.cut](Extras/seaborn-numerical-categorization.ipynb)
+
 
 ### ToDos:
 [ ] Skripte ausführen und testen ob alle gehen
+[ ] Pandas Einführung integrieren
+
 
 # Weiterführendes Material (Links)
 
@@ -96,8 +98,4 @@
 
 ## Advanced Tutorials:
 - **Pandas Best Practices** von Data School [📽️YouTube Video](https://youtu.be/dPwLlJkSHLo) /  [📁Jupyter Notebooks @GitHub](https://github.com/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb) 
-<<<<<<< HEAD
->>>>>>> e1bddc366d0a187c06f5c4928e1522df14f5874d
-=======
->>>>>>> 2ec364821a4bbf9add8ed0ea1b16248b7c0955d5
 - **Pandas Top 25 Tricks** von Data School [📽️YouTube Video](https://youtu.be/RlIiVeig3hc) /  [📁Jupyter Notebooks @GitHub](https://github.com/justmarkham/pycon-2019-tutorial/blob/master/tutorial.ipynb) 
