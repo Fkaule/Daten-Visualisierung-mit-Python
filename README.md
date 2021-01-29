@@ -15,7 +15,6 @@
 
 - [Seaborn / Pandas - Anzahl der "numerischen" Kategorien einstellen mit pd.cut](Extras/seaborn-numerical-categorization.ipynb)
 
-
 ### ToDos:
 [ ] Skripte ausführen und testen ob alle gehen
 [ ] Pandas Einführung integrieren
