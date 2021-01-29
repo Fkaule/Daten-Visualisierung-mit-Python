@@ -46,7 +46,10 @@
 - **Pandas Best Practices** von Data School [📽️YouTube Video](https://youtu.be/dPwLlJkSHLo) /  [📁Jupyter Notebooks @GitHub](https://github.com/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb) 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 2ec364821a4bbf9add8ed0ea1b16248b7c0955d5
 =======
 >>>>>>> 2ec364821a4bbf9add8ed0ea1b16248b7c0955d5
 =======
