@@ -1,4 +1,5 @@
-# Einleitung
+- [Einführung](#einführung)
+- [Software🤯 `Python` / `Matplotlib` / `Jupyter Notebook` / `JupyterHub` / `JupyterLab`](#software-python--matplotlib--jupyter-notebook--jupyterhub--jupyterlab)
 
 # Einführung
 
@@ -8,7 +9,7 @@ In diesem Kurs geht es darum **Daten** (z.B. aus Experiment/Simulation/Berechnun
 
 Wie groß ist die **jährliche Veränderung** der **Temperatur** der **erdnahen Atmosphäre** **und der Meere seit Beginn der Industrialisierung**?
 
-![Untitled.png](Einleitung%20b2c5067265d84eb38928954a3ab4287a/Untitled.png)
+![](Untitled.png)
 
 [[von NASA](https://data.giss.nasa.gov/gistemp/graphs_v4/)] Land-ocean temperature index, 1880 to present, with base period 1951-1980. The solid black line is the global annual mean and the solid red line is the five-year lowess smooth. The gray shading represents the total (LSAT and SST) annual uncertainty at a 95% confidence interval and is available for [download](https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/totalCI_ERA.csv). [More information on the updated uncertainty model can be found here: [Lenssen et al. (2019)](https://pubs.giss.nasa.gov/abs/le05800h.html).]
 
@@ -36,7 +37,7 @@ Wie groß ist die **jährliche Veränderung** der **Temperatur** der **erdnahen 
 
 **Nehmen wir nun erneut NASA Daten diesmal mit der Unterscheidung nach Land und Ozean und prüfen nach unseren Kriterien:**
 
-![Untitled%201.png](Einleitung%20b2c5067265d84eb38928954a3ab4287a/Untitled%201.png)
+![Untitled%201.png](Untitled%201.png)
 
 [[von NASA](https://data.giss.nasa.gov/gistemp/graphs_v4/)] Annual (thin lines) and five-year lowess smooth (thick lines) for the temperature anomalies (vs. 1951-1980) averaged over the Earth’s land area and sea surface temperature anomalies (vs. 1951-1980) averaged over the part of the ocean that is free of ice at all times (open ocean).
 
