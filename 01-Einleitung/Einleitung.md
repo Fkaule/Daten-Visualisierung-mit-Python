@@ -5,6 +5,8 @@
     - [2️⃣ `**JupyterHub**` **der HTWK-Leipzig (Fakultät IM) verwenden (Webzugang)**](#2️⃣-jupyterhub-der-htwk-leipzig-fakultät-im-verwenden-webzugang)
   - [JuptyerHub](#juptyerhub)
   - [JupyterLab](#jupyterlab)
+- [Erste Schritte in Jupyter Notebook](#erste-schritte-in-jupyter-notebook)
+  - [Vorbereitungen](#vorbereitungen)
 
 # Einführung
 
@@ -146,4 +148,28 @@ Zusätzlich zu `**Jupyter Notebooks**` gibt es seit 2019 eine Weiterentwicklung 
 
 Wir schreiben also unseren `**Python`** Code in **`Juypter Notebooks`**, da diese Umgebung uns die Möglichkeit bietet sehr übersichtlich zu arbeiten. Dazu loggen wir uns ins **`[JupyterHub`\*\* der HTWK Leipzig](https://jupyterhub.fim.htwk-leipzig.de/) ein.
 
-Fangen wir also jetzt mit unserem Beispiel an → [Beispiel A: Kraft und Wegmessung an Federn [Werte eintragen][📈Matplotlib]](https://www.notion.so/Beispiel-A-Kraft-und-Wegmessung-an-Federn-Werte-eintragen-Matplotlib-e1cbc422857443ab840161639b46ad91)
+
+# Erste Schritte in Jupyter Notebook
+
+## Vorbereitungen
+
+Loggen wir uns ins **JupyterHub** der HTWK-Leipzig ein.
+
+→ [https://jupyterhub.fim.htwk-leipzig.de/](https://jupyterhub.fim.htwk-leipzig.de/)
+
+Über `New` -> `Folder` können Sie einen **neuen Ordner** anlegen
+
+![](figures/neuer_Ordner.png)
+
+Über `die Auswahl des Ordners` und  `Rename` können Sie einen **Ordner** umbennnen
+
+![](figures/Ordner_umbennen.png)
+
+Mit `New` -> `Python 3` legen Sie ein neues Notebook an
+
+![](figures/new_python3_notebook.png)
+
+
+Nun gehen wir in ein bereits [vorbereitetes Jupyter Notebook](01-Einfuehrung-Jupyter-Noteboks.ipynb)  um dort den Syntax kennen zu lernen
+
+
