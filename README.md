@@ -26,7 +26,7 @@
 - **Intro to Seaborn** von Kimberly Fessel [📽️YouTube Playlist](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) /  [📁Jupyter Notebooks @GitHub](https://github.com/kimfetti/Videos/tree/master/Seaborn) 
 - [🌐 **Seaborn** Tutorial von kaggle.com](https://www.kaggle.com/learn/data-visualization)
 - [🌐 **Pandas** Tutorial von kaggle.com](https://www.kaggle.com/learn/pandas)
-- - **Pandas Einsteiger Tutorial** von Keith Galli [📽️YouTube Video](https://youtu.be/vmEHCJofslg) /  [📁Jupyter Notebooks @GitHub](https://github.com/KeithGalli/pandas) 
+- **Pandas Einsteiger Tutorial** von Keith Galli [📽️YouTube Video](https://youtu.be/vmEHCJofslg) /  [📁Jupyter Notebooks @GitHub](https://github.com/KeithGalli/pandas) 
 
 ## Advanced Tutorials:
 - **Pandas Best Practices** von Data School [📽️YouTube Video](https://youtu.be/dPwLlJkSHLo) /  [📁Jupyter Notebooks @GitHub](https://github.com/justmarkham/pandas-videos/blob/master/top_25_pandas_tricks.ipynb) 
