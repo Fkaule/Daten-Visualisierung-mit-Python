@@ -170,6 +170,6 @@ Mit `New` -> `Python 3` legen Sie ein neues Notebook an
 ![](figures/new_python3_notebook.png)
 
 
-Nun gehen wir in ein bereits [vorbereitetes Jupyter Notebook](01-Einfuehrung-Jupyter-Noteboks.ipynb)  um dort den Syntax kennen zu lernen
+Nun gehen wir in ein bereits [vorbereitetes Jupyter Notebook](Einfuehrung-Jupyter-Noteboks.ipynb)  um dort den Syntax kennen zu lernen
 
 
