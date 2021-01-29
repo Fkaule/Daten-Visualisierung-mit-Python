@@ -1,5 +1,10 @@
 - [Einführung](#einführung)
-- [Software🤯 `Python` / `Matplotlib` / `Jupyter Notebook` / `JupyterHub` / `JupyterLab`](#software-python--matplotlib--jupyter-notebook--jupyterhub--jupyterlab)
+- [Softwareübersich 🤯 `Python` / `Matplotlib` / `Jupyter Notebook` / `JupyterHub` / `JupyterLab`](#softwareübersich--python--matplotlib--jupyter-notebook--jupyterhub--jupyterlab)
+  - [Was ist ein `**Jupyter Notebook**` ?](#was-ist-ein-jupyter-notebook-)
+    - [1️⃣ `**Jupyter Notebooks` lokal auf dem eigenen Rechner\*\*](#1️⃣-jupyter-notebooks-lokal-auf-dem-eigenen-rechner)
+    - [2️⃣ `**JupyterHub**` **der HTWK-Leipzig (Fakultät IM) verwenden (Webzugang)**](#2️⃣-jupyterhub-der-htwk-leipzig-fakultät-im-verwenden-webzugang)
+  - [JuptyerHub](#juptyerhub)
+  - [JupyterLab](#jupyterlab)
 
 # Einführung
 
@@ -9,7 +14,7 @@ In diesem Kurs geht es darum **Daten** (z.B. aus Experiment/Simulation/Berechnun
 
 Wie groß ist die **jährliche Veränderung** der **Temperatur** der **erdnahen Atmosphäre** **und der Meere seit Beginn der Industrialisierung**?
 
-![](Untitled.png)
+![](figures/NASA_global_mean.png)
 
 [[von NASA](https://data.giss.nasa.gov/gistemp/graphs_v4/)] Land-ocean temperature index, 1880 to present, with base period 1951-1980. The solid black line is the global annual mean and the solid red line is the five-year lowess smooth. The gray shading represents the total (LSAT and SST) annual uncertainty at a 95% confidence interval and is available for [download](https://data.giss.nasa.gov/gistemp/graphs_v4/graph_data/totalCI_ERA.csv). [More information on the updated uncertainty model can be found here: [Lenssen et al. (2019)](https://pubs.giss.nasa.gov/abs/le05800h.html).]
 
@@ -37,7 +42,7 @@ Wie groß ist die **jährliche Veränderung** der **Temperatur** der **erdnahen 
 
 **Nehmen wir nun erneut NASA Daten diesmal mit der Unterscheidung nach Land und Ozean und prüfen nach unseren Kriterien:**
 
-![Untitled%201.png](Untitled%201.png)
+![](figures/NASA_global_mean_land_ocean.png)
 
 [[von NASA](https://data.giss.nasa.gov/gistemp/graphs_v4/)] Annual (thin lines) and five-year lowess smooth (thick lines) for the temperature anomalies (vs. 1951-1980) averaged over the Earth’s land area and sea surface temperature anomalies (vs. 1951-1980) averaged over the part of the ocean that is free of ice at all times (open ocean).
 
@@ -50,29 +55,29 @@ Wie groß ist die **jährliche Veränderung** der **Temperatur** der **erdnahen 
 
 Eine der **simpelsten** und **gleichzeitig effektivsten Formen der Datenvisualisierung** hat der Klimatologe Ed Hawkins mit den sogenannten **[Warming Stripes (Klimastreifen)](http://www.climate-lab-book.ac.uk/2018/2018-visualisation-update/)** aufgezeigt**.** Er wollte den rapiden Temperaturanstieg der letzten Jahre veranschaulichen und hat die oben gezeigten Daten Farbcodiert.
 
-![Untitled%202.png](Einleitung%20b2c5067265d84eb38928954a3ab4287a/Untitled%202.png)
+![](figures/climate_stripes.png)
 
 [[Ed Hawkins](http://www.climate-lab-book.ac.uk/2018/2018-visualisation-update/)] Warming stripes for 1850-2018 using the WMO annual global temperature dataset.
 
 Neben der eher unwissenschaftlichen Darstellung mit den Climate Stripes hat Hawkins auch weitere Darstellungen erzeugt, die definitiv ein Beispiel für eine sehr gelungene Datenvisualisierung sind:
 
-![spiral_2018_WMO_large.gif](Einleitung%20b2c5067265d84eb38928954a3ab4287a/spiral_2018_WMO_large.gif)
+![](figures/spiral_2018_WMO_large.gif)
 
 [[Ed Hawkins](http://www.climate-lab-book.ac.uk/2018/2018-visualisation-update/)] Climate spiral for the WMO global temperature dataset.
 
-![maparctic_sept_large.gif](Einleitung%20b2c5067265d84eb38928954a3ab4287a/maparctic_sept_large.gif)
+![](figures/maparctic_sept_large.gif)
 
 [[Ed Hawkins](http://www.climate-lab-book.ac.uk/2018/2018-visualisation-update/)] Arctic sea ice concentration from NSIDC for Septembers during 1979-2018.
 
 Hawkins hat seine Klimastreifen mit [Daten des PAGES2k Team](https://www.nature.com/articles/s41561-019-0400-0) bis auf das Jahr 0 erweitert, was die Aussage meiner Meinung nach sogar noch besser darstellt.
 
-![Untitled%203.png](Einleitung%20b2c5067265d84eb38928954a3ab4287a/Untitled%203.png)
+![](figures/climate_stripes_from_year0.png)
 
 [[Ed Hawkins](http://www.climate-lab-book.ac.uk/2018/2018-visualisation-update/)] Klimastreifen mit Daten der letzten 2019 Jahre
 
 Jedoch ist die Datenbasis der Jahre vor 1850 mit großen Unsicherheiten behaftet, was durch Konfidenzintervalle deutlich wird:
 
-![Untitled%204.png](Einleitung%20b2c5067265d84eb38928954a3ab4287a/Untitled%204.png)
+![](figures/pages2k_data.png)
 
 [[Ed Hawkins](http://www.climate-lab-book.ac.uk/2018/2018-visualisation-update/)] Erderwärmung der letzten 2019 Jahre
 
@@ -85,7 +90,7 @@ Für interessierte hier noch weitere Beispiele für außergewöhnliche Datenvisu
 
 Oben haben wir nun gesehen wie eine gute Datenvisualisierung aussehen kann und worauf es ankommt. Schauen wir nun einmal auf die verschiedenen Möglichkeiten die man dazu hat:
 
-![Untitled%205.png](Einleitung%20b2c5067265d84eb38928954a3ab4287a/Untitled%205.png)
+![](figures/overview.png)
 
 [[Quelle](https://www.labnol.org/software/find-right-chart-type-for-your-data/6523/)] Choose the Right Chart Type for your Data
 
@@ -93,13 +98,13 @@ Es macht meiner Meinung nach keinen Sinn jeden Typ in einer solchen Übersicht n
 
 Um nun den Einstieg in unsere **erste eigene Datenvisualisierung** zu bekommen möchte ich mit Ihnen gerne ein **fiktives Experiment** auswerten um daran zu demonstrieren wie man bestimmte Daten am besten darstellt. Bevor wir damit jedoch anfangen können müssen wir einen kurzen Exkurs in die zu verwendete Software machen
 
-# Software🤯 `Python` / `Matplotlib` / `Jupyter Notebook` / `JupyterHub` / `JupyterLab`
+# Softwareübersich 🤯 `Python` / `Matplotlib` / `Jupyter Notebook` / `JupyterHub` / `JupyterLab`
 
 Zur graphischen Darstellung benutzen wir die Programmiersprache `**Python**` und zunächst daraus die weit verbreitest Bibliothek zur graphischen Darstellung und zwar `**Matplotlib**`. Auf die Befehle die wir benötigen gehen wir gleich später in unserem ersten Beispiel ein.
 
 Als Umgebung in der wir unseren Programmcode schreiben, verwenden wir dafür sogenannte `**Jupyter Notebooks**`
 
-Was ist ein `**Jupyter Notebook**` ?
+## Was ist ein `**Jupyter Notebook**` ?
 
 **`Jupyter Notebooks`** ist eine Client-Server-Anwendung der Non-Profit-Organisation [Project Jupyter](http://jupyter.org/), die 2015 veröffentlicht wurde.
 
@@ -113,7 +118,7 @@ Der Projektname „**Jupyter**“ geht auf die drei Kern-Programmiersprachen `Ju
 
 Nun gibt es mehrere Wege die `**Jupyter Notebooks**` zu verwenden:
 
-1️⃣ `**Jupyter Notebooks` lokal auf dem eigenen Rechner\*\*
+### 1️⃣ `**Jupyter Notebooks` lokal auf dem eigenen Rechner\*\*
 
 Der einfachste Weg ist sich `**Anaconda**` [runterladen](https://www.notion.so/Einf-hrung-APDL-IV-Post-Processing-2fa612432d3c4595af5207f034ffb26d) (für Windows/Mac und Linux verfügbar) und installieren.
 
@@ -121,7 +126,7 @@ Der einfachste Weg ist sich `**Anaconda**` [runterladen](https://www.notion.so/E
 
 Wer gerne den **Open Source Editor** `VS Code` von Microsoft ([Link](https://www.notion.so/Einf-hrung-APDL-IV-Post-Processing-2fa612432d3c4595af5207f034ffb26d)) benutzt, kann hier auch über eine Erweiterung [Jupyter Package](https://pypi.org/project/jupyter/) auch seine Jupyter Notebooks dort bearbeiten. Danach mit `Strg`+`Shift`+`P` den Python Interepter auswählen und danach wieder mit `Strg`+`Shift`+`P` ein neues Jupyter Notebook anlegen.
 
-2️⃣ `**JupyterHub**` **der HTWK-Leipzig (Fakultät IM) verwenden (Webzugang)**
+### 2️⃣ `**JupyterHub**` **der HTWK-Leipzig (Fakultät IM) verwenden (Webzugang)**
 
 ⭐ **EMPFOHLEN FÜR ANFÄNGER** ⭐
 
@@ -129,7 +134,11 @@ Das ist der schnellste und einfachste Weg, da Sie sich hier nur mit Ihrem HTWK-L
 
 **Link**: [https://jupyterhub.fim.htwk-leipzig.de/](https://jupyterhub.fim.htwk-leipzig.de/)
 
+## JuptyerHub
+
 Ein **`JuptyerHub`** ist Multi-User-Server der mehrere Jupyter-Notebook-Instanzen miteinander verknüpft.
+
+## JupyterLab
 
 Zusätzlich zu `**Jupyter Notebooks**` gibt es seit 2019 eine Weiterentwicklung die `**JupyterLab`** genannt wird. Diese soll auf lange Sicht das **`Jupyter Notebook`\*\* ablösen und bietet einige Features mehr.
 
