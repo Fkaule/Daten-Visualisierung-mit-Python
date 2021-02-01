@@ -6,7 +6,7 @@
 - [01 - Einführung Jupter Notebooks](01-Einleitung/Einfuehrung-Jupyter-Noteboks) 
 - [02 - Beispiel A: Feder - Werte eintragen](02-Beispiel_A-Federn-Werte-eintragen/Werte-Eintragen.ipynb)
 - [03 - Beispiel A: Feder - Werte einlesen](03-Beispiel_A-Federn-Werte-einlesen/Daten-einlesen.ipynb)
-- [04 - Beispiel B: Corona - Daten John Hopkins Universität](04-Beispiel_B-Corona-JP/Corona_JohnHopkins.ipynb)
+- [04 - Beispiel B: Corona - Daten John Hopkins Universität](04-Beispiel_B-Corona-JH/Corona_JohnHopkins.ipynb)
 - [05 - Beispiel C: Corona - Daten Robert Koch Institut](05-Beispiel_C-Corona-RKI/Corona_RKI.ipynb)
 - [06 - Beispiel D: Wetterdaten Leipzig - Temperaturen](06-Beispiel_D-Wetterdaten-Leipzig/Temperaturen.ipynb)
 - [06 - Beispiel D: Wetterdaten Leipzig - Niederschlag](06-Beispiel_D-Wetterdaten-Leipzig/Niederschlag.ipynb)
