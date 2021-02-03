@@ -3,7 +3,7 @@
 # Kursinhalt
 
 - [01 - Einleitung](01-Einleitung/Einleitung.md)
-- [01 - Einführung Jupter Notebooks](01-Einleitung/Einfuehrung-Jupyter-Noteboks) 
+- [01 - Einführung Jupter Notebooks](01-Einleitung/Einfuehrung-Jupyter-Noteboks.ipynb) 
 - [02 - Beispiel A: Feder - Werte eintragen](02-Beispiel_A-Federn-Werte-eintragen/Werte-Eintragen.ipynb)
 - [03 - Beispiel A: Feder - Werte einlesen](03-Beispiel_A-Federn-Werte-einlesen/Daten-einlesen.ipynb)
 - [04 - Beispiel B: Corona - Daten John Hopkins Universität](04-Beispiel_B-Corona-JH/Corona_JohnHopkins.ipynb)
