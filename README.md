@@ -6,7 +6,7 @@
 - [01 - Einführung Jupter Notebooks](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/01-Einleitung/Einfuehrung-Jupyter-Noteboks.ipynb) 
 - [02 - Beispiel A: Feder - Werte eintragen](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/02-Beispiel_A-Federn-Werte-eintragen/Werte-Eintragen.ipynb)
 - [03 - Beispiel A: Feder - Werte einlesen](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/03-Beispiel_A-Federn-Werte-einlesen/Daten-einlesen.ipynb)
-- [04 - Beispiel B: Corona - Daten John Hopkins Universität]([04-Beispiel_B-Corona-JH/Corona_JohnHopkins.ipynb](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/04-Beispiel_B-Corona-JH/Corona_JohnHopkins.ipynb))
+- [04 - Beispiel B: Corona - Daten John Hopkins Universität](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/04-Beispiel_B-Corona-JH/Corona_JohnHopkins.ipynb))
 - [05 - Beispiel C: Corona - Daten Robert Koch Institut](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/05-Beispiel_C-Corona-RKI/Corona_RKI.ipynb)
 - [06 - Beispiel D: Wetterdaten Leipzig - Temperaturen](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/06-Beispiel_D-Wetterdaten-Leipzig/Temperaturen.ipynb)
 - [06 - Beispiel D: Wetterdaten Leipzig - Niederschlag](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/06-Beispiel_D-Wetterdaten-Leipzig/Niederschlag.ipynb)
