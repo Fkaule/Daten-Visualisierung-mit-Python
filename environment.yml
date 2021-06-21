@@ -1,5 +1,0 @@
-name: basics
-dependencies:
-  - numpy
-  - matplotlib
-  - pandas
