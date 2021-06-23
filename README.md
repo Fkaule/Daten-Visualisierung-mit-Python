@@ -4,7 +4,8 @@
 
 - [01 - Einführung Jupter Notebooks](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/01-JupyterNotebooks.ipynb) 
 - [02 - Einfache Berechnungen und Plots am Beispiel des Biegebalkens](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/02-Biegebalken.ipynb) 
-- [03 - 🏋️‍♀️ ÜBUNG: Plots einer Kraftmessung](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/03-Kraftmessung.ipynb) 
+- [03 - Plots einer Kraftmessung](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/03-Kraftmessung.ipynb) 
+- [04 - Plots zum Thema Klimawandel](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/04-Klimawandel.ipynb) 
 
 # Weiterführendes Material (Links)
 
