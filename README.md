@@ -2,10 +2,15 @@
 
 # Kursinhalt
 
+[Kursinhalt in JupyterHub (für HTWK Studierende)](https://jupyterhub.fim.htwk-leipzig.de/hub/user-redirect/git-pull?repo=https://github.com/Fkaule/DatenVisualisierung-Kurs)
+
 - [01 - Einführung Jupter Notebooks](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/01-JupyterNotebooks.ipynb) 
 - [02 - Einfache Berechnungen und Plots am Beispiel des Biegebalkens](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/02-Biegebalken.ipynb) 
 - [03 - Plots einer Kraftmessung](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/03-Kraftmessung.ipynb) 
 - [04 - Plots zum Thema Klimawandel](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/04-Klimawandel.ipynb) 
+- [05 - API Unterschiede](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/05-API.ipynb) 
+- [06 - Subplots](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/06-Subplots.ipynb) 
+- [07 - RKI (Coronazahlen)](https://nbviewer.jupyter.org/github/Fkaule/DatenVisualisierung-Kurs/blob/master/07-RKI-Corona.ipynb) 
 
 # Weiterführendes Material (Links)
 
